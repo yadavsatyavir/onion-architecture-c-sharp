@@ -1,0 +1,2 @@
+# Onion Architechture C# MVC Example(generic repository, Unit of work, Dependancy Injection)
+This is an Example of NTier CSharp Application That Used Repository Pattern and Onion Architecture By "Ijaz ulhaq". This Example Can be used as template for enterprice application by little extending. It Can be Used as a base template for any ASP.NET MVC application. In This Template Entity Framework 6 as ORM, an Unity Bootstrapper as Dependency Injection Tool Used.
